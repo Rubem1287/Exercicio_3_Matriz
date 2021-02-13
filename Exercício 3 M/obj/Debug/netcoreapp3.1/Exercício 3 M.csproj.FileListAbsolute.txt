@@ -1,0 +1,12 @@
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\bin\Debug\netcoreapp3.1\Exercício 3 M.exe
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\bin\Debug\netcoreapp3.1\Exercício 3 M.deps.json
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\bin\Debug\netcoreapp3.1\Exercício 3 M.runtimeconfig.json
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\bin\Debug\netcoreapp3.1\Exercício 3 M.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\bin\Debug\netcoreapp3.1\Exercício 3 M.dll
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\bin\Debug\netcoreapp3.1\Exercício 3 M.pdb
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\obj\Debug\netcoreapp3.1\Exercício 3 M.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\obj\Debug\netcoreapp3.1\Exercício 3 M.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\obj\Debug\netcoreapp3.1\Exercício 3 M.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\obj\Debug\netcoreapp3.1\Exercício 3 M.dll
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\obj\Debug\netcoreapp3.1\Exercício 3 M.pdb
+C:\Users\rubem\source\repos\Exercício 3 M\Exercício 3 M\obj\Debug\netcoreapp3.1\Exercício 3 M.genruntimeconfig.cache
